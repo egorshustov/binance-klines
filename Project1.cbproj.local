@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.028,=C:\Users\BRAXXMAN\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.337,=C:\Users\BRAXXMAN\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.266,C:\Users\BRAXXMAN\Desktop\BinanceKlines\Project1.cbproj=C:\Users\BRAXXMAN\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.558,C:\Users\BRAXXMAN\Desktop\BinanceKlines\Unit1.cpp=C:\Users\BRAXXMAN\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.027,C:\Users\BRAXXMAN\Desktop\BinanceKlines\Project1PCH1.h=C:\Users\BRAXXMAN\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.538,=C:\Users\BRAXXMAN\Desktop\BinanceKlines\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.558,C:\Users\BRAXXMAN\Desktop\BinanceKlines\Unit1.dfm=C:\Users\BRAXXMAN\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.378,=C:\Users\BRAXXMAN\Desktop\BinanceKlines\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.558,C:\Users\BRAXXMAN\Desktop\BinanceKlines\Unit1.h=C:\Users\BRAXXMAN\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.320,C:\Users\BRAXXMAN\Desktop\BinanceKlines\Unit3.cpp=</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Project1.cpp"/>
+    <File Path="Project1PCH1.h"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit1.h"/>
+    <File Path="Unit2.cpp"/>
+    <File Path="Unit2.cpp"/>
+    <File Path="Unit2.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
